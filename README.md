@@ -1,2 +1,2 @@
 # Arduino-led
-A program that blink leds.
+A program that makes leds blinks.
